@@ -1,0 +1,1601 @@
+[{
+  "name": "Tapan",
+  "country": "Indonesia",
+  "capital": true,
+  "location": {
+    "lat": -2.1667354,
+    "long": 101.0699339
+  }
+}, {
+  "name": "Muaraenim",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -3.7114163,
+    "long": 104.0072348
+  }
+}, {
+  "name": "Paraguaçu",
+  "country": "Brazil",
+  "capital": false,
+  "location": {
+    "lat": -21.5679739,
+    "long": -45.7142063
+  }
+}, {
+  "name": "Habingkloang",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": "-8.6981",
+    "long": "122.247"
+  }
+}, {
+  "name": "Timiryazevskoye",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 56.4815673,
+    "long": 84.8815961
+  }
+}, {
+  "name": "Naebugis",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": "-8.5774",
+    "long": "119.0069"
+  }
+}, {
+  "name": "Ngurensiti",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.6998601,
+    "long": 111.0967118
+  }
+}, {
+  "name": "Batal",
+  "country": "Philippines",
+  "capital": false,
+  "location": {
+    "lat": 16.7011823,
+    "long": 121.5954324
+  }
+}, {
+  "name": "Khulm",
+  "country": "Afghanistan",
+  "capital": false,
+  "location": {
+    "lat": 36.7027082,
+    "long": 67.7079491
+  }
+}, {
+  "name": "Mengjia",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 32.43155,
+    "long": 116.514251
+  }
+}, {
+  "name": "Xiaosong",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 31.827364,
+    "long": 119.9690478
+  }
+}, {
+  "name": "Jiangyi",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 31.920658,
+    "long": 120.284938
+  }
+}, {
+  "name": "Sukhobuzimskoye",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 56.495472,
+    "long": 93.2782749
+  }
+}, {
+  "name": "Borzoy",
+  "country": "Russia",
+  "capital": true,
+  "location": {
+    "lat": 42.8434544,
+    "long": 45.632656
+  }
+}, {
+  "name": "Subaykhān",
+  "country": "Syria",
+  "capital": false,
+  "location": {
+    "lat": 34.859175,
+    "long": 40.6016766
+  }
+}, {
+  "name": "Palhais",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 40.9443261,
+    "long": -7.559557
+  }
+}, {
+  "name": "Banjar Pekandelan",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -8.7224002,
+    "long": 115.1746415
+  }
+}, {
+  "name": "Māymay",
+  "country": "Afghanistan",
+  "capital": true,
+  "location": {
+    "lat": 33.425934,
+    "long": 66.5344159
+  }
+}, {
+  "name": "Thị Trấn Ngọc Lặc",
+  "country": "Vietnam",
+  "capital": true,
+  "location": {
+    "lat": 20.0844095,
+    "long": 105.3760604
+  }
+}, {
+  "name": "Langensari",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.8008183,
+    "long": 107.1781769
+  }
+}, {
+  "name": "Dorogobuzh",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 54.9137734,
+    "long": 33.2971034
+  }
+}, {
+  "name": "Shuiyang",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 30.115083,
+    "long": 102.810415
+  }
+}, {
+  "name": "Yŏnmu",
+  "country": "South Korea",
+  "capital": false,
+  "location": {
+    "lat": "36.12944",
+    "long": "127.1"
+  }
+}, {
+  "name": "Salaspils",
+  "country": "Latvia",
+  "capital": true,
+  "location": {
+    "lat": 56.8564288,
+    "long": 24.3522717
+  }
+}, {
+  "name": "Rogóźno",
+  "country": "Poland",
+  "capital": false,
+  "location": {
+    "lat": 53.5484541,
+    "long": 18.9455238
+  }
+}, {
+  "name": "Mehendiganj",
+  "country": "Bangladesh",
+  "capital": false,
+  "location": {
+    "lat": 22.8275824,
+    "long": 90.5247893
+  }
+}, {
+  "name": "Wantian",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 24.042666,
+    "long": 114.345641
+  }
+}, {
+  "name": "Baizhang",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 31.918232,
+    "long": 119.976948
+  }
+}, {
+  "name": "Dalian",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 38.914003,
+    "long": 121.614682
+  }
+}, {
+  "name": "Maoping",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 30.823054,
+    "long": 110.973252
+  }
+}, {
+  "name": "Veselí nad Lužnicí",
+  "country": "Czech Republic",
+  "capital": false,
+  "location": {
+    "lat": 49.2275285,
+    "long": 14.7209457
+  }
+}, {
+  "name": "Qinghe",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 37.039991,
+    "long": 115.667208
+  }
+}, {
+  "name": "Vichy",
+  "country": "France",
+  "capital": true,
+  "location": {
+    "lat": "46.1167",
+    "long": "3.4167"
+  }
+}, {
+  "name": "Langgen",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.9230423,
+    "long": 109.1426676
+  }
+}, {
+  "name": "Tyringe",
+  "country": "Sweden",
+  "capital": false,
+  "location": {
+    "lat": 56.1138556,
+    "long": 13.6083989
+  }
+}, {
+  "name": "Telêmaco Borba",
+  "country": "Brazil",
+  "capital": true,
+  "location": {
+    "lat": -24.3273656,
+    "long": -50.6139816
+  }
+}, {
+  "name": "Dongpu",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 23.113478,
+    "long": 113.417068
+  }
+}, {
+  "name": "Warburton",
+  "country": "Pakistan",
+  "capital": true,
+  "location": {
+    "lat": 31.4867981,
+    "long": 73.8207154
+  }
+}, {
+  "name": "Changtu",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 42.785791,
+    "long": 124.111099
+  }
+}, {
+  "name": "Onsala",
+  "country": "Sweden",
+  "capital": false,
+  "location": {
+    "lat": 57.4293806,
+    "long": 11.947834
+  }
+}, {
+  "name": "Dolní Studénky",
+  "country": "Czech Republic",
+  "capital": true,
+  "location": {
+    "lat": 49.9333641,
+    "long": 16.9699769
+  }
+}, {
+  "name": "Nowshera",
+  "country": "Pakistan",
+  "capital": true,
+  "location": {
+    "lat": 34.0112004,
+    "long": 71.9795856
+  }
+}, {
+  "name": "Ciherang",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.5864219,
+    "long": 106.7441048
+  }
+}, {
+  "name": "Dauriya",
+  "country": "Russia",
+  "capital": true,
+  "location": {
+    "lat": 49.9248455,
+    "long": 116.8425182
+  }
+}, {
+  "name": "Ilioúpoli",
+  "country": "Greece",
+  "capital": false,
+  "location": {
+    "lat": 37.9298588,
+    "long": 23.7692328
+  }
+}, {
+  "name": "Hepo",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 23.436592,
+    "long": 115.836219
+  }
+}, {
+  "name": "Ash Shaḩānīyah",
+  "country": "Qatar",
+  "capital": true,
+  "location": {
+    "lat": 25.4106386,
+    "long": 51.1846025
+  }
+}, {
+  "name": "Shah Alam",
+  "country": "Malaysia",
+  "capital": true,
+  "location": {
+    "lat": 3.0100681,
+    "long": 101.5326734
+  }
+}, {
+  "name": "Providencia",
+  "country": "Peru",
+  "capital": false,
+  "location": {
+    "lat": -5.7,
+    "long": -75.983333
+  }
+}, {
+  "name": "Petrovice u Karviné",
+  "country": "Czech Republic",
+  "capital": true,
+  "location": {
+    "lat": 49.8958649,
+    "long": 18.5477977
+  }
+}, {
+  "name": "Louta",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 29.912769,
+    "long": 120.142352
+  }
+}, {
+  "name": "Septfontaines",
+  "country": "Luxembourg",
+  "capital": true,
+  "location": {
+    "lat": 49.7002226,
+    "long": 5.9670927
+  }
+}, {
+  "name": "Galūgāh",
+  "country": "Iran",
+  "capital": true,
+  "location": {
+    "lat": 36.7284026,
+    "long": 53.8101659
+  }
+}, {
+  "name": "Castelli",
+  "country": "Argentina",
+  "capital": true,
+  "location": {
+    "lat": -37.9861381,
+    "long": -57.6000001
+  }
+}, {
+  "name": "Brckovljani",
+  "country": "Croatia",
+  "capital": false,
+  "location": {
+    "lat": 45.8361992,
+    "long": 16.2945325
+  }
+}, {
+  "name": "Colorado Springs",
+  "country": "United States",
+  "capital": false,
+  "location": {
+    "lat": 38.8163486,
+    "long": -104.8512993
+  }
+}, {
+  "name": "Xiamazhuang",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 37.233266,
+    "long": 122.456824
+  }
+}, {
+  "name": "Lakhdenpokh’ya",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 61.5188713,
+    "long": 30.1907149
+  }
+}, {
+  "name": "Cama Juan",
+  "country": "Philippines",
+  "capital": true,
+  "location": {
+    "lat": 15.3833332,
+    "long": 120.8000031
+  }
+}, {
+  "name": "Rennes",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 43.1237608,
+    "long": 2.317187
+  }
+}, {
+  "name": "Avon",
+  "country": "France",
+  "capital": true,
+  "location": {
+    "lat": 48.9741782,
+    "long": 2.5130988
+  }
+}, {
+  "name": "Ostrowite",
+  "country": "Poland",
+  "capital": false,
+  "location": {
+    "lat": 53.0662784,
+    "long": 19.2876039
+  }
+}, {
+  "name": "Quartier Militaire",
+  "country": "Mauritius",
+  "capital": true,
+  "location": {
+    "lat": -20.2483065,
+    "long": 57.5971647
+  }
+}, {
+  "name": "Changshan",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 28.901462,
+    "long": 118.511235
+  }
+}, {
+  "name": "Phú Lộc",
+  "country": "Vietnam",
+  "capital": true,
+  "location": {
+    "lat": 16.2725431,
+    "long": 107.9394761
+  }
+}, {
+  "name": "Dębica",
+  "country": "Poland",
+  "capital": false,
+  "location": {
+    "lat": 51.64438,
+    "long": 22.561217
+  }
+}, {
+  "name": "Meiktila",
+  "country": "Myanmar",
+  "capital": false,
+  "location": {
+    "lat": 20.8765931,
+    "long": 95.8601611
+  }
+}, {
+  "name": "Armenia",
+  "country": "Colombia",
+  "capital": true,
+  "location": {
+    "lat": 4.4721794,
+    "long": -75.7255192
+  }
+}, {
+  "name": "Nová Paka",
+  "country": "Czech Republic",
+  "capital": true,
+  "location": {
+    "lat": 50.494493,
+    "long": 15.5150382
+  }
+}, {
+  "name": "Dorupare",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": "-8.8229",
+    "long": "121.053"
+  }
+}, {
+  "name": "Temaiku Village",
+  "country": "Kiribati",
+  "capital": false,
+  "location": {
+    "lat": "1.36292",
+    "long": "173.16226"
+  }
+}, {
+  "name": "Vitoria-Gasteiz",
+  "country": "Spain",
+  "capital": false,
+  "location": {
+    "lat": 42.8436672,
+    "long": -2.6722992
+  }
+}, {
+  "name": "Laka",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.1560113,
+    "long": 106.90896
+  }
+}, {
+  "name": "Pirojpur",
+  "country": "Bangladesh",
+  "capital": true,
+  "location": {
+    "lat": 22.4217587,
+    "long": 89.0445636
+  }
+}, {
+  "name": "Horana South",
+  "country": "Sri Lanka",
+  "capital": true,
+  "location": {
+    "lat": 6.7192076,
+    "long": 80.0573194
+  }
+}, {
+  "name": "Frösön",
+  "country": "Sweden",
+  "capital": false,
+  "location": {
+    "lat": 63.1724708,
+    "long": 14.5922703
+  }
+}, {
+  "name": "Jinhe",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 26.695419,
+    "long": 101.841707
+  }
+}, {
+  "name": "Santa Rosa",
+  "country": "Peru",
+  "capital": false,
+  "location": {
+    "lat": -11.806679,
+    "long": -77.1657716
+  }
+}, {
+  "name": "Kumagunnam",
+  "country": "Nigeria",
+  "capital": true,
+  "location": {
+    "lat": 13.1529217,
+    "long": 10.6351404
+  }
+}, {
+  "name": "Katur",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -8.227306,
+    "long": 115.2379
+  }
+}, {
+  "name": "Alīgūdarz",
+  "country": "Iran",
+  "capital": true,
+  "location": {
+    "lat": 33.4049794,
+    "long": 49.6962428
+  }
+}, {
+  "name": "Pechersk",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 53.204218,
+    "long": 50.198315
+  }
+}, {
+  "name": "Khorlovo",
+  "country": "Russia",
+  "capital": true,
+  "location": {
+    "lat": 55.3315791,
+    "long": 38.8842656
+  }
+}, {
+  "name": "Bourges",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 47.6632745,
+    "long": 1.206057
+  }
+}, {
+  "name": "Zborište",
+  "country": "Bosnia and Herzegovina",
+  "capital": true,
+  "location": {
+    "lat": 45.1458598,
+    "long": 16.018026
+  }
+}, {
+  "name": "Banyuurip",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -7.2719005,
+    "long": 112.7196817
+  }
+}, {
+  "name": "Shaxi",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 26.312444,
+    "long": 99.850365
+  }
+}, {
+  "name": "Pingtang",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 25.822349,
+    "long": 107.322323
+  }
+}, {
+  "name": "San Francisco",
+  "country": "Mexico",
+  "capital": true,
+  "location": {
+    "lat": 20.8965838,
+    "long": -105.4093552
+  }
+}, {
+  "name": "Santo Domingo",
+  "country": "Philippines",
+  "capital": true,
+  "location": {
+    "lat": 13.2317498,
+    "long": 123.7702587
+  }
+}, {
+  "name": "Parlilitan",
+  "country": "Indonesia",
+  "capital": true,
+  "location": {
+    "lat": 2.394682,
+    "long": 98.4403573
+  }
+}, {
+  "name": "Ozatlán",
+  "country": "El Salvador",
+  "capital": false,
+  "location": {
+    "lat": 13.3846598,
+    "long": -88.5045477
+  }
+}, {
+  "name": "Aubenas",
+  "country": "France",
+  "capital": true,
+  "location": {
+    "lat": 44.2136985,
+    "long": 3.9996505
+  }
+}, {
+  "name": "Katsuyama",
+  "country": "Japan",
+  "capital": true,
+  "location": {
+    "lat": 26.6182735,
+    "long": 127.9382594
+  }
+}, {
+  "name": "Firovo",
+  "country": "Russia",
+  "capital": true,
+  "location": {
+    "lat": "57.48135",
+    "long": "33.70211"
+  }
+}, {
+  "name": "Changyanbao",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 30.688741,
+    "long": 109.166598
+  }
+}, {
+  "name": "Zhougang",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 31.5094268,
+    "long": 116.8877403
+  }
+}, {
+  "name": "Svrljig",
+  "country": "Serbia",
+  "capital": false,
+  "location": {
+    "lat": 43.4146453,
+    "long": 22.1271404
+  }
+}, {
+  "name": "Linhó",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 38.769738,
+    "long": -9.3779954
+  }
+}, {
+  "name": "Barat",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.2284889,
+    "long": 106.9602906
+  }
+}, {
+  "name": "Yuyue",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 31.9617032,
+    "long": 119.5738403
+  }
+}, {
+  "name": "Utsjoki",
+  "country": "Finland",
+  "capital": true,
+  "location": {
+    "lat": 69.6811494,
+    "long": 27.0796336
+  }
+}, {
+  "name": "Qinjia",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 31.237906,
+    "long": 121.41794
+  }
+}, {
+  "name": "Outeiro de Polima",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 38.7178621,
+    "long": -9.3240249
+  }
+}, {
+  "name": "Haarlem",
+  "country": "Netherlands",
+  "capital": true,
+  "location": {
+    "lat": 52.3739053,
+    "long": 4.615857
+  }
+}, {
+  "name": "Xintian",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 25.904305,
+    "long": 112.203287
+  }
+}, {
+  "name": "Riebiņi",
+  "country": "Latvia",
+  "capital": true,
+  "location": {
+    "lat": 56.343612,
+    "long": 26.8013629
+  }
+}, {
+  "name": "Krouna",
+  "country": "Czech Republic",
+  "capital": false,
+  "location": {
+    "lat": 49.7761881,
+    "long": 16.0289677
+  }
+}, {
+  "name": "Kyosai",
+  "country": "South Korea",
+  "capital": true,
+  "location": {
+    "lat": "34.85028",
+    "long": "128.58861"
+  }
+}, {
+  "name": "Moutfort",
+  "country": "Luxembourg",
+  "capital": false,
+  "location": {
+    "lat": 49.589121,
+    "long": 6.257054
+  }
+}, {
+  "name": "Bacem",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -8.0061188,
+    "long": 112.1132142
+  }
+}, {
+  "name": "Babura",
+  "country": "Nigeria",
+  "capital": false,
+  "location": {
+    "lat": 12.6114543,
+    "long": 8.8803925
+  }
+}, {
+  "name": "Pignon",
+  "country": "Haiti",
+  "capital": false,
+  "location": {
+    "lat": 19.3362853,
+    "long": -72.1164358
+  }
+}, {
+  "name": "Xinzhai",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 36.809895,
+    "long": 116.428916
+  }
+}, {
+  "name": "Regueiro",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 42.0938285,
+    "long": -8.2570282
+  }
+}, {
+  "name": "Pyskowice",
+  "country": "Poland",
+  "capital": true,
+  "location": {
+    "lat": 50.3955793,
+    "long": 18.6346378
+  }
+}, {
+  "name": "Yanmen",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 39.193073,
+    "long": 112.865891
+  }
+}, {
+  "name": "Kalilu",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": 43.600345,
+    "long": 121.316445
+  }
+}, {
+  "name": "Moscavide",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 38.7760203,
+    "long": -9.1024092
+  }
+}, {
+  "name": "Liwale",
+  "country": "Tanzania",
+  "capital": true,
+  "location": {
+    "lat": -9.8012675,
+    "long": 37.9201751
+  }
+}, {
+  "name": "Longmen",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 34.5594987,
+    "long": 112.4678779
+  }
+}, {
+  "name": "Ouro Branco",
+  "country": "Brazil",
+  "capital": true,
+  "location": {
+    "lat": -6.6760711,
+    "long": -36.9326095
+  }
+}, {
+  "name": "Estelí",
+  "country": "Nicaragua",
+  "capital": true,
+  "location": {
+    "lat": 13.0851139,
+    "long": -86.3630197
+  }
+}, {
+  "name": "Mariara",
+  "country": "Venezuela",
+  "capital": true,
+  "location": {
+    "lat": 10.2891838,
+    "long": -67.719871
+  }
+}, {
+  "name": "Troyes",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 48.3006708,
+    "long": 4.0710348
+  }
+}, {
+  "name": "Cotabato",
+  "country": "Philippines",
+  "capital": true,
+  "location": {
+    "lat": 14.6611789,
+    "long": 121.0226827
+  }
+}, {
+  "name": "Florencia",
+  "country": "Cuba",
+  "capital": true,
+  "location": {
+    "lat": 22.1461138,
+    "long": -78.9712451
+  }
+}, {
+  "name": "Nzeto",
+  "country": "Angola",
+  "capital": false,
+  "location": {
+    "lat": -7.2269461,
+    "long": 12.8687414
+  }
+}, {
+  "name": "Washington",
+  "country": "United States",
+  "capital": false,
+  "location": {
+    "lat": 38.92,
+    "long": -76.99
+  }
+}, {
+  "name": "Cimanggu Wetan",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.8128491,
+    "long": 107.5087328
+  }
+}, {
+  "name": "Kesamben",
+  "country": "Indonesia",
+  "capital": true,
+  "location": {
+    "lat": -8.1500032,
+    "long": 112.3695412
+  }
+}, {
+  "name": "Taganskiy",
+  "country": "Russia",
+  "capital": false,
+  "location": {
+    "lat": 55.7393377,
+    "long": 37.6642542
+  }
+}, {
+  "name": "Sankui",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 27.424294,
+    "long": 119.914874
+  }
+}, {
+  "name": "Gangkou",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 22.585397,
+    "long": 113.38492
+  }
+}, {
+  "name": "Józefów",
+  "country": "Poland",
+  "capital": false,
+  "location": {
+    "lat": 51.7565958,
+    "long": 20.9183286
+  }
+}, {
+  "name": "Altavista",
+  "country": "Mexico",
+  "capital": false,
+  "location": {
+    "lat": 31.7394146,
+    "long": -106.4177672
+  }
+}, {
+  "name": "Chicago",
+  "country": "United States",
+  "capital": true,
+  "location": {
+    "lat": 41.8062766,
+    "long": -87.6482474
+  }
+}, {
+  "name": "Pregrada",
+  "country": "Croatia",
+  "capital": true,
+  "location": {
+    "lat": 46.1649072,
+    "long": 15.7509093
+  }
+}, {
+  "name": "Langsepan",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -8.2030974,
+    "long": 113.7329154
+  }
+}, {
+  "name": "Heimahe",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 36.71041,
+    "long": 99.763005
+  }
+}, {
+  "name": "Caxias",
+  "country": "Brazil",
+  "capital": false,
+  "location": {
+    "lat": -4.8654138,
+    "long": -43.3619983
+  }
+}, {
+  "name": "Pridraga",
+  "country": "Croatia",
+  "capital": true,
+  "location": {
+    "lat": 44.1509604,
+    "long": 15.5846313
+  }
+}, {
+  "name": "Kristinehamn",
+  "country": "Sweden",
+  "capital": false,
+  "location": {
+    "lat": 59.3030191,
+    "long": 14.0706348
+  }
+}, {
+  "name": "Derventa",
+  "country": "Bosnia and Herzegovina",
+  "capital": true,
+  "location": {
+    "lat": 44.9764185,
+    "long": 17.9070412
+  }
+}, {
+  "name": "Blois",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 47.594843,
+    "long": 1.3155028
+  }
+}, {
+  "name": "Itō",
+  "country": "Japan",
+  "capital": true,
+  "location": {
+    "lat": 34.9528346,
+    "long": 139.0943433
+  }
+}, {
+  "name": "Izra‘",
+  "country": "Syria",
+  "capital": false,
+  "location": {
+    "lat": 32.8449406,
+    "long": 36.2251116
+  }
+}, {
+  "name": "Cortes",
+  "country": "Philippines",
+  "capital": false,
+  "location": {
+    "lat": 14.6074523,
+    "long": 121.1136216
+  }
+}, {
+  "name": "Krajan Karanganyar",
+  "country": "Indonesia",
+  "capital": true,
+  "location": {
+    "lat": -6.8243672,
+    "long": 110.7880536
+  }
+}, {
+  "name": "Kloangrotat",
+  "country": "Indonesia",
+  "capital": true,
+  "location": {
+    "lat": "-8.6793",
+    "long": "122.3355"
+  }
+}, {
+  "name": "São Gabriel da Cachoeira",
+  "country": "Brazil",
+  "capital": false,
+  "location": {
+    "lat": 0.5582388,
+    "long": -68.1431414
+  }
+}, {
+  "name": "Casa Nova",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 42.0269548,
+    "long": -8.4748384
+  }
+}, {
+  "name": "Stockholm",
+  "country": "Sweden",
+  "capital": true,
+  "location": {
+    "lat": 59.3405742,
+    "long": 18.0667759
+  }
+}, {
+  "name": "Lutoryż",
+  "country": "Poland",
+  "capital": true,
+  "location": {
+    "lat": 50.0028883,
+    "long": 21.8964008
+  }
+}, {
+  "name": "Vazante",
+  "country": "Brazil",
+  "capital": false,
+  "location": {
+    "lat": -17.7050221,
+    "long": -46.7478493
+  }
+}, {
+  "name": "Shuangxikou",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 28.944692,
+    "long": 119.314016
+  }
+}, {
+  "name": "Shifo",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 43.960744,
+    "long": 124.582546
+  }
+}, {
+  "name": "Tireman Timur",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.7076379,
+    "long": 111.3709499
+  }
+}, {
+  "name": "Munkfors",
+  "country": "Sweden",
+  "capital": true,
+  "location": {
+    "lat": 59.8557818,
+    "long": 13.5485237
+  }
+}, {
+  "name": "Sabana de Parra",
+  "country": "Venezuela",
+  "capital": true,
+  "location": {
+    "lat": 10.1197024,
+    "long": -69.0393069
+  }
+}, {
+  "name": "Lipsko",
+  "country": "Poland",
+  "capital": true,
+  "location": {
+    "lat": 51.159,
+    "long": 21.64911
+  }
+}, {
+  "name": "Aimorés",
+  "country": "Brazil",
+  "capital": true,
+  "location": {
+    "lat": -19.4959312,
+    "long": -41.0713439
+  }
+}, {
+  "name": "Richibucto",
+  "country": "Canada",
+  "capital": true,
+  "location": {
+    "lat": 46.6817873,
+    "long": -64.8659804
+  }
+}, {
+  "name": "Linköping",
+  "country": "Sweden",
+  "capital": true,
+  "location": {
+    "lat": 58.6841957,
+    "long": 15.7513324
+  }
+}, {
+  "name": "Eirol",
+  "country": "Portugal",
+  "capital": false,
+  "location": {
+    "lat": 40.611078,
+    "long": -8.5375389
+  }
+}, {
+  "name": "Rožna Dolina",
+  "country": "Slovenia",
+  "capital": true,
+  "location": {
+    "lat": 45.89485,
+    "long": 13.7233116
+  }
+}, {
+  "name": "Bertoua",
+  "country": "Cameroon",
+  "capital": true,
+  "location": {
+    "lat": 4.5791946,
+    "long": 13.6767958
+  }
+}, {
+  "name": "Inčukalns",
+  "country": "Latvia",
+  "capital": true,
+  "location": {
+    "lat": 57.0994342,
+    "long": 24.685557
+  }
+}, {
+  "name": "Río Cauto",
+  "country": "Cuba",
+  "capital": true,
+  "location": {
+    "lat": 20.5599652,
+    "long": -76.9095647
+  }
+}, {
+  "name": "Shiraoi",
+  "country": "Japan",
+  "capital": false,
+  "location": {
+    "lat": 42.5824637,
+    "long": 141.3159801
+  }
+}, {
+  "name": "Tamaki",
+  "country": "New Zealand",
+  "capital": true,
+  "location": {
+    "lat": -36.8929232,
+    "long": 174.8607024
+  }
+}, {
+  "name": "Malešići",
+  "country": "Bosnia and Herzegovina",
+  "capital": true,
+  "location": {
+    "lat": 44.7416079,
+    "long": 18.2727658
+  }
+}, {
+  "name": "Makale",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -3.1045962,
+    "long": 119.8524988
+  }
+}, {
+  "name": "Cikondang",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -6.9401945,
+    "long": 106.9247932
+  }
+}, {
+  "name": "Dīvāndarreh",
+  "country": "Iran",
+  "capital": false,
+  "location": {
+    "lat": 35.9136535,
+    "long": 47.0266848
+  }
+}, {
+  "name": "Chaiyaphum",
+  "country": "Thailand",
+  "capital": false,
+  "location": {
+    "lat": 13.7387938,
+    "long": 100.5072582
+  }
+}, {
+  "name": "La Garde",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 48.0482483,
+    "long": -1.6329288
+  }
+}, {
+  "name": "Quintã",
+  "country": "Portugal",
+  "capital": true,
+  "location": {
+    "lat": 40.8576169,
+    "long": -8.5183398
+  }
+}, {
+  "name": "Nabari",
+  "country": "Japan",
+  "capital": true,
+  "location": {
+    "lat": 36.2048468,
+    "long": 137.2118015
+  }
+}, {
+  "name": "Radymno",
+  "country": "Poland",
+  "capital": true,
+  "location": {
+    "lat": 49.94712,
+    "long": 22.82395
+  }
+}, {
+  "name": "Hepu",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 21.660935,
+    "long": 109.207335
+  }
+}, {
+  "name": "Xi’an",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 34.341574,
+    "long": 108.93977
+  }
+}, {
+  "name": "Ban Phai",
+  "country": "Thailand",
+  "capital": false,
+  "location": {
+    "lat": 16.1169002,
+    "long": 102.7020218
+  }
+}, {
+  "name": "Delong",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 30.629423,
+    "long": 103.963147
+  }
+}, {
+  "name": "Tuohua",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 31.3400146,
+    "long": 118.9478423
+  }
+}, {
+  "name": "Secang Barat",
+  "country": "Indonesia",
+  "capital": false,
+  "location": {
+    "lat": -7.823074,
+    "long": 110.1576731
+  }
+}, {
+  "name": "Paris 11",
+  "country": "France",
+  "capital": true,
+  "location": {
+    "lat": 48.8610504,
+    "long": 2.3237084
+  }
+}, {
+  "name": "Longping",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 27.5566857,
+    "long": 107.0336505
+  }
+}, {
+  "name": "Zadvorsko",
+  "country": "Croatia",
+  "capital": true,
+  "location": {
+    "lat": 45.7198309,
+    "long": 15.909036
+  }
+}, {
+  "name": "Lingda",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 31.203196,
+    "long": 119.301861
+  }
+}, {
+  "name": "Chugur",
+  "country": "Peru",
+  "capital": false,
+  "location": {
+    "lat": -6.6712034,
+    "long": -78.7383574
+  }
+}, {
+  "name": "Sobreiro",
+  "country": "Portugal",
+  "capital": true,
+  "location": {
+    "lat": 41.620793,
+    "long": -8.488318
+  }
+}, {
+  "name": "Xingyi",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 25.09204,
+    "long": 104.895467
+  }
+}, {
+  "name": "Qianhong",
+  "country": "China",
+  "capital": true,
+  "location": {
+    "lat": 31.849004,
+    "long": 117.044333
+  }
+}, {
+  "name": "Schiltigheim",
+  "country": "France",
+  "capital": false,
+  "location": {
+    "lat": 48.6213459,
+    "long": 7.7713453
+  }
+}, {
+  "name": "Lorraine",
+  "country": "Canada",
+  "capital": true,
+  "location": {
+    "lat": 45.6628665,
+    "long": -73.8134978
+  }
+}, {
+  "name": "Suyang",
+  "country": "China",
+  "capital": false,
+  "location": {
+    "lat": 32.890479,
+    "long": 115.814504
+  }
+}, {
+  "name": "Valle de La Pascua",
+  "country": "Venezuela",
+  "capital": true,
+  "location": {
+    "lat": 9.2217178,
+    "long": -65.9794807
+  }
+}, {
+  "name": "Breu",
+  "country": "Peru",
+  "capital": true,
+  "location": {
+    "lat": -9.483333,
+    "long": -72.716667
+  }
+}, {
+  "name": "Abashiri",
+  "country": "Japan",
+  "capital": false,
+  "location": {
+    "lat": 41.9585475,
+    "long": -88.0725041
+  }
+}]
